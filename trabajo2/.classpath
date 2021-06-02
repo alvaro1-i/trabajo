@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Controller"/>
+	<classpathentry kind="src" path="Logic"/>
+	<classpathentry kind="src" path="Model"/>
+	<classpathentry kind="src" path="View"/>
+	<classpathentry kind="src" path="app"/>
+	<classpathentry kind="src" path="dmb"/>
+	<classpathentry kind="src" path="Start"/>
+	<classpathentry kind="src" path="until"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/NitroPC/OneDrive - CEUAndalucia/Documentos/eltrabajo/ojdbc8.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
